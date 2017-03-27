@@ -22,94 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="462">
+              <caret line="92" column="52" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Import.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Import.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="166" column="68" selection-start-line="166" selection-start-column="68" selection-end-line="166" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
-                <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
-                <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
-                <element signature="method#ImportEquipmentDataFromXLS#0;class#Import#0" expanded="false" />
-                <element signature="method#ImportInstrumentsFromXLS#0;class#Import#0" expanded="false" />
-                <element signature="method#ImportHookupFormFromXLS#0;class#Import#0" expanded="false" />
-                <element signature="method#getListFromDatabase#0;class#Import#0" expanded="false" />
-                <element signature="method#getItemListFromDatabase#0;class#Import#0" expanded="false" />
-                <element signature="method#getItemFromDatabase#0;class#Import#0" expanded="false" />
-                <element signature="method#getItemsFromDatabase#0;class#Import#0" expanded="false" />
-                <element signature="method#getHookupMappingFromDatabase#0;class#Import#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Export.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Export.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="146" column="51" selection-start-line="146" selection-start-column="51" selection-end-line="146" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
-                <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
-                <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
-                <element signature="method#AddPipesToDatabase#0;class#Export#0" expanded="false" />
-                <element signature="method#AddEquipmentToDatabase#0;class#Export#0" expanded="false" />
-                <element signature="method#AddLoopsToDatabase#0;class#Export#0" expanded="false" />
-                <element signature="method#AddCablesToDatabase#0;class#Export#0" expanded="false" />
-                <element signature="method#AddJBoxesToDatabase#0;class#Export#0" expanded="false" />
-                <element signature="method#AddHookupsToDatabase#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdateInstrumentData#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdatePipeData#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdateEquipmentData#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdateLoopData#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdateCableData#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdateJBoxData#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdateHookupData#0;class#Export#0" expanded="false" />
-                <element signature="method#UpdateHookupMapping#0;class#Export#0" expanded="false" />
-                <element signature="method#DeleteItemsFromDatabase#0;class#Export#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Console.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="105" column="79" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExecutableSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ExecutableSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Instrumentation2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Instrumentation2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Instrumentation2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+            <state relative-caret-position="-2465">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -119,18 +46,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ItemEditor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ItemEditor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4845">
+              <caret line="309" column="95" selection-start-line="309" selection-start-column="16" selection-end-line="309" selection-end-column="95" />
+              <folding>
+                <element signature="class#TableRenderer#0;class#ItemEditor#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="InstrumentationWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/InstrumentationWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="986">
+              <caret line="96" column="23" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#CreateConnection#0;class#InstrumentationWindow#0" expanded="false" />
                 <element signature="method#CheckConnection#0;class#InstrumentationWindow#0" expanded="false" />
-                <element signature="method#InstrumentationWindow#0;class#InstrumentationWindow#0" expanded="false" />
-                <element signature="method#InitWindow#0;class#InstrumentationWindow#0" expanded="false" />
-                <element signature="class#Menu#0;class#InstrumentationWindow#0" expanded="false" />
                 <element signature="class#ConnectionWindow#0;class#InstrumentationWindow#0" expanded="false" />
                 <element signature="method#About#0;class#InstrumentationWindow#0" expanded="false" />
               </folding>
@@ -140,6 +76,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -148,10 +87,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Export.java" />
         <option value="$PROJECT_DIR$/src/main/java/Console.java" />
         <option value="$PROJECT_DIR$/src/main/java/Instrumentation2.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -235,6 +174,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -310,8 +251,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,10 +290,7 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -377,10 +313,7 @@
       <Profilers>
         <option name="GAPID_DISABLE_PCS" value="false" />
       </Profilers>
-      <method>
-        <option name="Make" enabled="true" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -678,8 +611,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14895834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -687,8 +620,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -717,6 +650,234 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExecutableSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Instrumentation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#tryConnection#0;class#Instrumentation2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InstrumentationWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CreateConnection#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="method#CheckConnection#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="class#ConnectionWindow#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="method#About#0;class#InstrumentationWindow#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Import.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" column="68" selection-start-line="166" selection-start-column="68" selection-end-line="166" selection-end-column="68" />
+          <folding>
+            <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
+            <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportEquipmentDataFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportInstrumentsFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportHookupFormFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#getListFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemListFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemsFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getHookupMappingFromDatabase#0;class#Import#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Export.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="51" selection-start-line="146" selection-start-column="51" selection-end-line="146" selection-end-column="51" />
+          <folding>
+            <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
+            <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
+            <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddPipesToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddEquipmentToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddLoopsToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddCablesToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddJBoxesToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddHookupsToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateInstrumentData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdatePipeData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateEquipmentData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateLoopData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateCableData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateJBoxData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateHookupData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateHookupMapping#0;class#Export#0" expanded="false" />
+            <element signature="method#DeleteItemsFromDatabase#0;class#Export#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="105" column="79" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExecutableSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Instrumentation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#tryConnection#0;class#Instrumentation2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InstrumentationWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CreateConnection#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="method#CheckConnection#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="class#ConnectionWindow#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="method#About#0;class#InstrumentationWindow#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Import.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="166" column="68" selection-start-line="166" selection-start-column="68" selection-end-line="166" selection-end-column="68" />
+          <folding>
+            <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
+            <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportEquipmentDataFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportInstrumentsFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportHookupFormFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#getListFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemListFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemsFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getHookupMappingFromDatabase#0;class#Import#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Export.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="146" column="51" selection-start-line="146" selection-start-column="51" selection-end-line="146" selection-end-column="51" />
+          <folding>
+            <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
+            <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
+            <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddPipesToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddEquipmentToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddLoopsToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddCablesToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddJBoxesToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#AddHookupsToDatabase#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateInstrumentData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdatePipeData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateEquipmentData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateLoopData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateCableData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateJBoxData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateHookupData#0;class#Export#0" expanded="false" />
+            <element signature="method#UpdateHookupMapping#0;class#Export#0" expanded="false" />
+            <element signature="method#DeleteItemsFromDatabase#0;class#Export#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="105" column="79" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExecutableSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Instrumentation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#tryConnection#0;class#Instrumentation2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InstrumentationWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CreateConnection#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="method#CheckConnection#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="class#ConnectionWindow#0;class#InstrumentationWindow#0" expanded="false" />
+            <element signature="method#About#0;class#InstrumentationWindow#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -730,7 +891,6 @@
         <state relative-caret-position="68">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
             <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
             <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
@@ -751,7 +911,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
             <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
             <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
@@ -807,7 +966,6 @@
         <state relative-caret-position="68">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
             <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
             <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
@@ -828,7 +986,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
             <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
             <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
@@ -884,7 +1041,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
             <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
             <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
@@ -905,7 +1061,6 @@
         <state relative-caret-position="374">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
             <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
             <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
@@ -961,7 +1116,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
             <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
             <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
@@ -988,7 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,7 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,7 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,17 +1191,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ItemEditor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1058,59 +1198,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="401" column="38" selection-start-line="401" selection-start-column="38" selection-end-line="401" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ExecutableSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="153">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ItemEditor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="4845">
+          <caret line="309" column="95" selection-start-line="309" selection-start-column="16" selection-end-line="309" selection-end-column="95" />
+          <folding>
+            <element signature="class#TableRenderer#0;class#ItemEditor#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/InstrumentationWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="986">
+          <caret line="96" column="23" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#CreateConnection#0;class#InstrumentationWindow#0" expanded="false" />
             <element signature="method#CheckConnection#0;class#InstrumentationWindow#0" expanded="false" />
-            <element signature="method#InstrumentationWindow#0;class#InstrumentationWindow#0" expanded="false" />
-            <element signature="method#InitWindow#0;class#InstrumentationWindow#0" expanded="false" />
-            <element signature="class#Menu#0;class#InstrumentationWindow#0" expanded="false" />
             <element signature="class#ConnectionWindow#0;class#InstrumentationWindow#0" expanded="false" />
             <element signature="method#About#0;class#InstrumentationWindow#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Import.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="105" column="79" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="79" />
-          <folding />
+        <state relative-caret-position="258">
+          <caret line="166" column="68" selection-start-line="166" selection-start-column="68" selection-end-line="166" selection-end-column="68" />
+          <folding>
+            <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
+            <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportEquipmentDataFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportInstrumentsFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#ImportHookupFormFromXLS#0;class#Import#0" expanded="false" />
+            <element signature="method#getListFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemListFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getItemsFromDatabase#0;class#Import#0" expanded="false" />
+            <element signature="method#getHookupMappingFromDatabase#0;class#Import#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Export.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="146" column="51" selection-start-line="146" selection-start-column="51" selection-end-line="146" selection-end-column="51" />
+        <state relative-caret-position="547">
+          <caret line="294" column="0" selection-start-line="294" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#CloseConnection#0;class#Export#0" expanded="false" />
             <element signature="method#SaveInstrumentsToXLS#1;class#Export#0" expanded="false" />
             <element signature="method#AddInstrumentsToDatabase#0;class#Export#0" expanded="false" />
@@ -1133,36 +1280,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Import.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Console.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="166" column="68" selection-start-line="166" selection-start-column="68" selection-end-line="166" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#CloseConnection#0;class#Import#0" expanded="false" />
-            <element signature="method#tryPreffix#0;class#Import#0" expanded="false" />
-            <element signature="method#ImportPipeDataFromXLS#0;class#Import#0" expanded="false" />
-            <element signature="method#ImportEquipmentDataFromXLS#0;class#Import#0" expanded="false" />
-            <element signature="method#ImportInstrumentsFromXLS#0;class#Import#0" expanded="false" />
-            <element signature="method#ImportHookupFormFromXLS#0;class#Import#0" expanded="false" />
-            <element signature="method#getListFromDatabase#0;class#Import#0" expanded="false" />
-            <element signature="method#getItemListFromDatabase#0;class#Import#0" expanded="false" />
-            <element signature="method#getItemFromDatabase#0;class#Import#0" expanded="false" />
-            <element signature="method#getItemsFromDatabase#0;class#Import#0" expanded="false" />
-            <element signature="method#getHookupMappingFromDatabase#0;class#Import#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="547">
+          <caret line="105" column="79" selection-start-line="105" selection-start-column="43" selection-end-line="105" selection-end-column="79" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Instrumentation2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        <state relative-caret-position="-2465">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="method#tryConnection#0;class#Instrumentation2#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="92" column="52" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
